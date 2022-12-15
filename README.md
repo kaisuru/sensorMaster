@@ -9,5 +9,5 @@ For the final year research project, Developing a soil moisture content monitori
  
 The code is written using React native expo platform in JavaScript.
 
-# --------------------------------------------------------------------
+#--------------------------------------------------------------------
 Hope you will enjoy !
