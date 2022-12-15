@@ -1,4 +1,4 @@
-# sensorMaster_APP
+# Sensor Master
 
 The code is written by K.A.I.L. Kasthuri Arachchi
 For the final year research project, Developing a soil moisture content monitoring system based on Internet of Things Technology (IoT)
